@@ -19,3 +19,5 @@ markdown_extensions:
   - admonition
   - toc:
       permalink: true
+extra_css:
+  - assets/custom.css

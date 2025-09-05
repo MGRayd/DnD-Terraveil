@@ -13,7 +13,8 @@ theme:
       accent: orange
 nav:
   - Home: index.md
-  - Campaign Session 1: Campaign Session 1.md
+  - Campaigns: 
+    - Campaign Session 1: campaigns/Campaign Session 1.md
 markdown_extensions:
   - admonition
   - toc:

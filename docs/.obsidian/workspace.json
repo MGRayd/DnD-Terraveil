@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "campaigns/Campaign Session 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Campaign Session 1"
             }
           }
         ]
@@ -169,11 +169,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "3a3825dca2ae5d25",
+  "active": "a90a75997ab59beb",
   "lastOpenFiles": [
-    "Campaign Session 1.md",
+    "campaigns",
     "index.md",
-    "Untitled",
+    "campaigns/Campaign Session 1.md",
     "assets/custom.css"
   ]
 }

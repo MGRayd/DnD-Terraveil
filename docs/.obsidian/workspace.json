@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "096708e1806b679c",
+        "id": "060f45bf601948ca",
         "type": "tabs",
         "children": [
           {
-            "id": "c8e7d6ccf6c0d271",
+            "id": "3a3825dca2ae5d25",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "index"
             }
-          },
-          {
-            "id": "c1653106ad8d0e40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign Session 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Campaign Session 1"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,10 +169,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "c1653106ad8d0e40",
+  "active": "3a3825dca2ae5d25",
   "lastOpenFiles": [
-    "index.md",
     "Campaign Session 1.md",
+    "index.md",
+    "Untitled",
     "assets/custom.css"
   ]
 }

@@ -2,7 +2,7 @@
 
 <img src="assets/Silas.png" alt="Silas Corvin" width="400" height="600">
 
-# Back Story
+## Back Story
 
 Silas Corvin was born in a frontier town on the edge of nowhere, a place where the law was thin, and the night was thick with things best left unnamed. Folks there lived by the gun, the blade, or the bottle, and most didn’t live long.
 

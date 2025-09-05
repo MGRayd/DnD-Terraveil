@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="assets/custom.css">
+
 <img src="assets/Silas.png" alt="Silas Corvin" width="400" height="600">
 
 # Back Story

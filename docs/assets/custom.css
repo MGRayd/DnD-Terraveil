@@ -1,10 +1,12 @@
 /* Load a gothic display font for headings */
-@import url('https://fonts.googleapis.com/css2?family=Uncial+Antiqua&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Uncial+Antiqua&family=Merriweather&display=swap');
 
-/* Page typography tweaks */
+/* Body text */
 .md-typeset {
-  line-height: 1.65;
+  font-family: "Merriweather", serif !important;
   font-size: 0.95rem;
+  line-height: 1.7;
+  color: #e0e0e0;
 }
 
 /* Blood-red headings in a gothic font */
@@ -18,20 +20,24 @@
   font-family: "Uncial Antiqua", serif !important;
 }
 
-/* Blockquotes for your in-character lines */
+/* Blockquotes */
 .md-typeset blockquote {
   border-left: 4px solid #e63946;
   background: #1a1a1a;
   padding: 0.9rem 1rem;
   color: #d8d8d8;
   font-style: italic;
+  font-family: "Merriweather", serif;
 }
 
-/* Image frame to match the artwork */
+/* Images */
 .md-typeset img {
   border: 2px solid #2b2b2b;
   border-radius: 10px;
   box-shadow: 0 0 12px rgba(0,0,0,0.6);
+  margin: 1em 0;
+  max-width: 100%;
+  height: auto;
 }
 
 /* Horizontal rule accent */

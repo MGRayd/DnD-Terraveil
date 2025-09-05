@@ -1,4 +1,4 @@
-site_name: Silas Corvin
+site_name: Terraveil Journal
 theme:
   name: material
   features:
@@ -13,8 +13,10 @@ theme:
       accent: orange
 nav:
   - Home: index.md
+  - Characters:
+    - Silas Corvin: characters/silas/index.md
   - Campaigns: 
-    - Session 1: campaigns/Session 1.md
+    - Session 1: campaigns/Session-1.md
 markdown_extensions:
   - admonition
   - toc:

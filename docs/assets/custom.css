@@ -1,56 +1,47 @@
-/* === Dark Fantasy Theme for Silas Corvin === */
+/* Load a gothic display font for headings */
+@import url('https://fonts.googleapis.com/css2?family=Uncial+Antiqua&display=swap');
 
-/* Page background and text */
-body {
-  background-color: #121212; /* deep charcoal */
-  color: #e0e0e0;           /* soft grey text */
-  font-family: "Georgia", serif;
-  line-height: 1.6;
+/* Page typography tweaks */
+.md-typeset {
+  line-height: 1.65;
+  font-size: 0.95rem;
 }
 
-/* Headings */
-h1, h2, h3, h4, h5, h6 {
-  color: #e63946; /* blood red accent */
-  font-family: "Garamond", serif;
-  font-weight: bold;
-  border-bottom: 1px solid #333;
-  padding-bottom: 0.2em;
-  margin-top: 1.2em;
+/* Blood-red headings in a gothic font */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+  color: #e63946 !important;              /* blood red */
+  font-family: "Uncial Antiqua", serif !important;
 }
 
-/* Links */
-a {
-  color: #ff784f; /* orange highlight */
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-  color: #ffa07a;
-}
-
-/* Code blocks (if you add any later) */
-code {
-  background: #1e1e1e;
-  color: #ff784f;
-  padding: 2px 4px;
-  border-radius: 4px;
-}
-
-/* Blockquotes (for your character intro lines) */
-blockquote {
+/* Blockquotes for your in-character lines */
+.md-typeset blockquote {
   border-left: 4px solid #e63946;
-  padding-left: 1em;
-  color: #c0c0c0;
-  font-style: italic;
   background: #1a1a1a;
+  padding: 0.9rem 1rem;
+  color: #d8d8d8;
+  font-style: italic;
 }
 
-/* Images */
-img {
-  border: 2px solid #333;
-  border-radius: 8px;
-  margin: 1em 0;
-  max-width: 100%;
-  height: auto;
+/* Image frame to match the artwork */
+.md-typeset img {
+  border: 2px solid #2b2b2b;
+  border-radius: 10px;
+  box-shadow: 0 0 12px rgba(0,0,0,0.6);
+}
+
+/* Horizontal rule accent */
+.md-typeset hr {
+  border: 0;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, #e63946, transparent);
+}
+
+/* Optional: make the main content a touch narrower for readability */
+.md-grid {
+  max-width: 80rem;
 }

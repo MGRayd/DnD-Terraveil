@@ -1,14 +1,56 @@
+/* === Dark Fantasy Theme for Silas Corvin === */
+
+/* Page background and text */
 body {
-    background-color: #1e1e1e;
-    color: #e0e0e0;
-  }
-  h1, h2, h3, h4 {
-    color: #ff6f3c; /* accent colour for headers */
-  }
-  a {
-    color: #ffa07a;
-  }
-  img {
-    border: 2px solid #444;
-    border-radius: 6px;
-  }
+  background-color: #121212; /* deep charcoal */
+  color: #e0e0e0;           /* soft grey text */
+  font-family: "Georgia", serif;
+  line-height: 1.6;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: #e63946; /* blood red accent */
+  font-family: "Garamond", serif;
+  font-weight: bold;
+  border-bottom: 1px solid #333;
+  padding-bottom: 0.2em;
+  margin-top: 1.2em;
+}
+
+/* Links */
+a {
+  color: #ff784f; /* orange highlight */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #ffa07a;
+}
+
+/* Code blocks (if you add any later) */
+code {
+  background: #1e1e1e;
+  color: #ff784f;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+
+/* Blockquotes (for your character intro lines) */
+blockquote {
+  border-left: 4px solid #e63946;
+  padding-left: 1em;
+  color: #c0c0c0;
+  font-style: italic;
+  background: #1a1a1a;
+}
+
+/* Images */
+img {
+  border: 2px solid #333;
+  border-radius: 8px;
+  margin: 1em 0;
+  max-width: 100%;
+  height: auto;
+}

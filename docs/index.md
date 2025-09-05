@@ -14,7 +14,7 @@ Now, Silas is a wanderer. He drifts from town to town, leaving only silence and 
 
 ## Character Intro
 
-_The man who walks into camp is no local. His coat is worn, his boots scuffed from miles of dust and stone, and his eyes catch the firelight in an unsettling crimson glow. Twin crossbows hang low at his hips, like an extension of his hands. He tips his hat in greeting, the gesture polite but distant.
+The man who walks into camp is no local. His coat is worn, his boots scuffed from miles of dust and stone, and his eyes catch the firelight in an unsettling crimson glow. Twin crossbows hang low at his hips, like an extension of his hands. He tips his hat in greeting, the gesture polite but distant.
 
 _"Name’s Silas Corvin,"_ he says, voice low and rough. _"I ain’t from these parts. Don’t much matter where. What matters is this, I hunt things folk’d rather pretend don’t exist. And if your path takes you into the kind of dark I think it will… well, maybe you’ll be glad to have me along."
 

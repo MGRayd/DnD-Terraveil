@@ -14,7 +14,9 @@ theme:
 nav:
   - Home: index.md
   - Characters:
-    - Silas Corvin: characters/silas/index.md
+    - Silas Corvin: 
+      - Overview: characters/silas/index.md
+      - Stats: characters/silas/stats.md
   - Campaigns:
     - Campaign: campaigns/index.md
     - Session 0: campaigns/Session-0.md
@@ -25,8 +27,14 @@ nav:
   - NPCs:
     - Coming Soon: npcs/index.md
 markdown_extensions:
+  - tables
   - admonition
+  - md_in_html
+  - attr_list
   - pymdownx.details
+  - pymdownx.snippets:
+      base_path: docs
+      check_paths: true
   - pymdownx.superfences
   - pymdownx.tabbed
   - pymdownx.tasklist:
@@ -34,6 +42,8 @@ markdown_extensions:
   - footnotes
   - toc:
       permalink: true
+plugins:
+  - search
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/fullcalendar@6.1.8/index.global.min.js
   - https://cdn.jsdelivr.net/npm/@fullcalendar/google-calendar@6.1.8/index.global.min.js

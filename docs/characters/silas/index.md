@@ -36,3 +36,8 @@ _"Name’s Silas Corvin,"_ he says, voice low and rough. _"I ain’t from these 
 
 - I tell others I chose this path, but the truth is I had nothing left. When my family was gone, I begged the Blood Hunters to take me in. They did, but only because I offered everything, my blood, my future, and my humanity. What I fear most is that, without the hunt, there is nothing left of me at all.
 - Each time I bleed for the rite, I feel something stir beneath my skin, as if my blood is not entirely my own. I tell myself it is the cost of power, but in quiet moments I wonder if the hunt is awakening something I will not be able to contain.
+
+## Character Data
+
+[Stats](./stats.md){ .md-button }
+

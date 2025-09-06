@@ -5,7 +5,7 @@
 - **HP:** 12 / 12
 - **AC:** 17
 - **Initiative:** +7
-- **Speed:** 30 ft. (Walking)
+- **Speed:** 30 ft (Walking)
 
 ## Attributes
 | STRENGTH | DEXTERITY | CONSTITUTION | INTELLIGENCE | WISDOM | CHARISMA |
@@ -21,6 +21,5 @@
 - **Charisma:** +0
 
 ---
-
 
 

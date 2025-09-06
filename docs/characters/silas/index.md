@@ -39,5 +39,6 @@ _"Name’s Silas Corvin,"_ he says, voice low and rough. _"I ain’t from these 
 
 ## Character Data
 
-[Stats](./stats.md){ .md-button }
+[Stats](./stats.md){ .md-button } | [Full Character Sheet (GD)](https://drive.google.com/file/d/1UaHcnPU_n-bJyE9R_7RNvGRVXwvzd_Jv/view?usp=drive_link){ .md-button }
+
 

@@ -1,12 +1,8 @@
 ---
-title: "Campaign Log"
+title: Campaign
 ---
-## Campaign Calendar
 
-<div id="calendar"></div>
-<div id="calendar"></div>
-<div id="calendar"></div>
-<div id="calendar"></div>
+## Campaign Calendar
 
 <div id="calendar"></div>
 
@@ -16,10 +12,10 @@ document.addEventListener('DOMContentLoaded', function () {
 
   const cal = new FullCalendar.Calendar(el, {
     initialView: 'dayGridMonth',
-    height: 'auto',            // no scrollbars
-    fixedWeekCount: false,     // only render weeks needed
+    height: 'auto',
+    fixedWeekCount: false,
     expandRows: true,
-    timeZone: 'Europe/London', // adjust if needed
+    timeZone: 'Europe/London',
     firstDay: 1,
     locale: 'en-gb',
     headerToolbar: {
@@ -27,56 +23,53 @@ document.addEventListener('DOMContentLoaded', function () {
       center: 'title',
       right: 'dayGridMonth,listWeek'
     },
+
     googleCalendarApiKey: 'AIzaSyC0CRXdZ6_EGtd2R1Uw_gxiBkGcaUiKYz0',
-    events: {
-      googleCalendarId: '97084ad1a7c1976fc22d25a18cfebc591f5ea24e12737b6cbbead55805ee5822@group.calendar.google.com'
-    },
-    // Time text in the cell (24h). For 12h "6:00 pm", see note below.
+    events: { googleCalendarId: '97084ad1a7c1976fc22d25a18cfebc591f5ea24e12737b6cbbead55805ee5822@group.calendar.google.com' },
+
+    // show 18:00 (24h). For 12h, set hour12: true and add meridiem: 'short'
+    eventTimeFormat: { hour: '2-digit', minute: '2-digit', hour12: false },
+
     eventContent(arg) {
-	// normalize title if you don't like hyphens
-	const titleText = (arg.event.title || '').replace(/-/g, ' ');
+      const titleText = (arg.event.title || '').replace(/-/g, ' ');
+      const container = document.createElement('div');
+      container.className = 'fc-event-custom';
 
-	// Build DOM nodes (more reliable than raw HTML strings)
-	const container = document.createElement('div');
-	container.className = 'fc-event-custom';
+      const line1 = document.createElement('div');
+      line1.className = 'fc-event-line1';
 
-	const line1 = document.createElement('div');
-	line1.className = 'fc-event-line1';
+      if (arg.timeText) {
+        const time = document.createElement('span');
+        time.className = 'fc-time';
+        time.textContent = arg.timeText; // e.g., 18:00
+        line1.appendChild(time);
+      }
 
-	if (arg.timeText) {
-		const time = document.createElement('span');
-		time.className = 'fc-time';
-		time.textContent = arg.timeText; // e.g., 18:00
-		line1.appendChild(time);
-	}
+      const title = document.createElement('span');
+      title.className = 'fc-title';
+      title.textContent = (arg.timeText ? ' ' : '') + titleText;
+      line1.appendChild(title);
 
-	const title = document.createElement('span');
-		title.className = 'fc-title';
-		title.textContent = (arg.timeText ? ' ' : '') + titleText;
-		line1.appendChild(title);
+      container.appendChild(line1);
 
-	container.appendChild(line1);
+      const loc = arg.event.extendedProps && arg.event.extendedProps.location;
+      if (loc) {
+        const line2 = document.createElement('div');
+        line2.className = 'fc-event-location';
+        line2.textContent = '📍 ' + loc;
+        container.appendChild(line2);
+      }
 
-	const loc = arg.event.extendedProps && arg.event.extendedProps.location;
-	if (loc) {
-		const line2 = document.createElement('div');
-		line2.className = 'fc-event-location';
-		line2.textContent = '📍 ' + loc;
-		container.appendChild(line2);
-	}
+      return { domNodes: [container] };
+    },
 
-	return { domNodes: [container] };
-	},
-    // Tooltip with consistent timezone-aware time
     eventDidMount(info) {
       const cal = info.view.calendar;
       const timeText = info.event.start
-        ? cal.formatDate(info.event.start, {
-            hour: '2-digit', minute: '2-digit', hour12: false
-          })
+        ? cal.formatDate(info.event.start, { hour: '2-digit', minute: '2-digit', hour12: false })
         : '';
       const loc = info.event.extendedProps?.location || '';
-      let tip = info.event.title;
+      let tip = info.event.title.replace(/-/g, ' ');
       if (timeText) tip += ' — ' + timeText;
       if (loc) tip += ' @ ' + loc;
       info.el.title = tip;
@@ -86,7 +79,6 @@ document.addEventListener('DOMContentLoaded', function () {
   cal.render();
 });
 </script>
-
 
 ## Campaign Log
 

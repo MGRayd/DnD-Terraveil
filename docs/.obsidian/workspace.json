@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "23dd3dcd328540f9",
+        "id": "4debbaf21d7e2caa",
         "type": "tabs",
         "children": [
           {
-            "id": "a753f536fefdac39",
+            "id": "05459c152766dd03",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -166,12 +166,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a753f536fefdac39",
+  "active": "05459c152766dd03",
   "lastOpenFiles": [
+    "campaigns/index.md",
+    "campaigns/Session-3.md",
+    "campaigns/Session-2.md",
+    "Templates/Add Session.md",
+    "campaigns/Session-1.md",
     "Templates/Session.md",
+    "campaigns/Session-2.md.md",
+    "campaigns/Session-2.md.md",
+    "npcs",
+    "Example NPC.md",
     "campaigns/Session-2-Test.md",
     "().md",
-    "campaigns/Session-1.md",
     "characters/silas/index.md",
     "index.md",
     "Templates",

@@ -1,7 +1,7 @@
 ---
 title: "Campaign Log"
 ---
-# Campaign Calendar
+## Campaign Calendar
 
 <div id="calendar"></div>
 <div id="calendar"></div>
@@ -88,7 +88,7 @@ document.addEventListener('DOMContentLoaded', function () {
 </script>
 
 
-# Campaign Log
+## Campaign Log
 
 > A chronological index of our Terraveil sessions.
 

@@ -20,9 +20,9 @@ nav:
     - Session 1: campaigns/Session-1.md
     #- Session 2: campaigns/Session-2.md
   - Locations:
-    - Soon
+    - Coming Soon: locations/index.md
   - NPCs:
-    - Soon
+    - Coming Soon: npcs/index.md
 markdown_extensions:
   - admonition
   - pymdownx.details

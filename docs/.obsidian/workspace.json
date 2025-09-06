@@ -167,20 +167,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "templater-obsidian:Templater": false,
-      "remotely-secure:Remotely Sync": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "f4e18bd8327c01d1",
   "lastOpenFiles": [
     "locations/index.md",
     "npcs/index.md",
-    "locations",
+    "characters/silas/index.md",
+    "campaigns/Session-1.md",
     "campaigns/index.md",
+    "locations",
     "campaigns/Session-3.md",
     "campaigns/Session-2.md",
     "Templates/Add Session.md",
-    "campaigns/Session-1.md",
     "Templates/Session.md",
     "campaigns/Session-2.md.md",
     "campaigns/Session-2.md.md",
@@ -188,7 +188,6 @@
     "Example NPC.md",
     "campaigns/Session-2-Test.md",
     "().md",
-    "characters/silas/index.md",
     "index.md",
     "Templates",
     "assets/custom.css",

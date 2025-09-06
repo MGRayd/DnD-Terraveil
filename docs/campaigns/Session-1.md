@@ -1,6 +1,6 @@
 ---
-title: "2025-09-06 – Session 1"
-date: 2025-09-06
+title: 2025-09-11 – Session 1
+date: 2025-09-11
 tags:
   - session
   - terraveil

@@ -18,7 +18,7 @@ nav:
   - Campaigns:
     - Campaign Log: campaigns/index.md
     - Session 1: campaigns/Session-1.md
-    - Session 2: campaigns/Session-2.md
+    #- Session 2: campaigns/Session-2.md
 markdown_extensions:
   - admonition
   - pymdownx.details

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4debbaf21d7e2caa",
+        "id": "1faba8f45ffe4966",
         "type": "tabs",
         "children": [
           {
-            "id": "05459c152766dd03",
+            "id": "f4e18bd8327c01d1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -163,10 +163,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "remotely-secure:Remotely Sync": false
     }
   },
-  "active": "05459c152766dd03",
+  "active": "f4e18bd8327c01d1",
   "lastOpenFiles": [
     "campaigns/index.md",
     "campaigns/Session-3.md",

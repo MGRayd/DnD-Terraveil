@@ -51,3 +51,42 @@
 .md-grid {
   max-width: 80rem;
 }
+
+/* Keep calendar contained and themed */
+#calendar { max-width: 100%; margin: 0 auto; }
+
+/* Subtle, smaller location line */
+#calendar .fc-event-location {
+  font-size: 0.75rem;
+  color: #ffffff;
+  margin-top: 2px;
+}
+
+/* Match your heading style for the calendar title (optional) */
+#calendar .fc .fc-toolbar-title {
+  color: var(--md-primary-fg-color);
+  font-family: "Cinzel Decorative", Georgia, serif;
+  font-weight: 700;
+}
+
+/* Keep event text readable and wrap only between words */
+#calendar .fc-daygrid-event,
+#calendar .fc-daygrid-event .fc-event-main,
+#calendar .fc-daygrid-event .fc-line,
+#calendar .fc-daygrid-event .fc-title,
+#calendar .fc-daygrid-event .fc-time,
+#calendar .fc-daygrid-event .fc-event-location {
+  white-space: normal;
+  overflow-wrap: break-word;  /* wrap long words if needed */
+  word-break: normal;         /* avoid breaking inside words/letters */
+  line-height: 1.2;
+}
+
+#calendar .fc-daygrid-event .fc-line { display: block; }
+#calendar .fc-daygrid-event .fc-time { font-weight: 700; margin-right: .25rem; }
+#calendar .fc-event-location { font-size: .75rem; color: #bbb; margin-top: 2px; }
+
+/* Slight spacing so two-line entries look tidy */
+#calendar .fc-daygrid-event {
+  padding-right: 2px;
+}

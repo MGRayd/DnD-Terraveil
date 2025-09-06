@@ -19,6 +19,10 @@ nav:
     - Campaign Log: campaigns/index.md
     - Session 1: campaigns/Session-1.md
     #- Session 2: campaigns/Session-2.md
+  - Locations:
+    - Soon
+  - NPCs:
+    - Soon
 markdown_extensions:
   - admonition
   - pymdownx.details

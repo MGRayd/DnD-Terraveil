@@ -17,6 +17,7 @@ nav:
     - Silas Corvin: characters/silas/index.md
   - Campaigns:
     - Campaign: campaigns/index.md
+    - Session 0: campaigns/Session-0.md
     - Session 1: campaigns/Session-1.md
     #- Session 2: campaigns/Session-2.md
   - Locations:

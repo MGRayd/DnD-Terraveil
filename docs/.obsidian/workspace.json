@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "campaigns/index.md",
+                "file": "campaigns/Session-0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Session-0"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "f4e18bd8327c01d1",
   "lastOpenFiles": [
-    "Templates/Add Session.md",
     "campaigns/index.md",
+    "campaigns/Session-0.md",
+    "Templates/Add Session.md",
     "campaigns/Session-1.md",
     "npcs/index.md",
     "locations/index.md",

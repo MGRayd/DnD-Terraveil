@@ -86,6 +86,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
 <!-- sessions:start -->
 
+- **31-08-2025 — Session 0**  
+  _Discussed campaign dates, characters and lore._ → [Read](Session-0.md)
 - **11-09-2025 — Session 1**  
   _Our tale has not yet begun, but the pieces are moving…_ → [Read](Session-1.md)
 

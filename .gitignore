@@ -1,0 +1,5 @@
+# Ignore Templater templates
+Templates/
+
+# Ignore Obsidian-specific stuff
+.obsidian/

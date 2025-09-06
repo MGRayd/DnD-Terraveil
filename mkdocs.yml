@@ -17,7 +17,6 @@ nav:
     - Silas Corvin: characters/silas/index.md
   - Campaigns: 
     - Session 1: campaigns/Session-1.md
-    - Session 2: campaigns/Session-2-Test.md
 markdown_extensions:
   - admonition
   - toc:

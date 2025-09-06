@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "npcs/index.md",
+                "file": "campaigns/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -172,15 +172,15 @@
   },
   "active": "f4e18bd8327c01d1",
   "lastOpenFiles": [
-    "locations/index.md",
-    "npcs/index.md",
-    "characters/silas/index.md",
-    "campaigns/Session-1.md",
+    "Templates/Add Session.md",
     "campaigns/index.md",
+    "campaigns/Session-1.md",
+    "npcs/index.md",
+    "locations/index.md",
+    "characters/silas/index.md",
     "locations",
     "campaigns/Session-3.md",
     "campaigns/Session-2.md",
-    "Templates/Add Session.md",
     "Templates/Session.md",
     "campaigns/Session-2.md.md",
     "campaigns/Session-2.md.md",

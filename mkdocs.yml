@@ -1,4 +1,6 @@
 site_name: Terraveil Journal
+site_url: https://mgrayd.github.io/DnD-Terraveil/
+
 theme:
   name: material
   features:
@@ -11,6 +13,9 @@ theme:
     - scheme: slate
       primary: red
       accent: orange
+
+use_directory_urls: true
+
 nav:
   - Home: index.md
   - Characters:
@@ -21,11 +26,11 @@ nav:
     - Campaign: campaigns/index.md
     - Session 0: campaigns/Session-0.md
     - Session 1: campaigns/Session-1.md
-    #- Session 2: campaigns/Session-2.md
   - Locations:
     - Indexed Locations: locations/index.md
   - NPCs:
     - Indexed NPCs: npcs/index.md
+
 markdown_extensions:
   - tables
   - admonition

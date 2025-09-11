@@ -9,4 +9,4 @@ Unknown, has not been met in person.
 - Handles caravan guard contracts for the Frontiers Guild.
 - Posted the **Caravan Guards to Brailwind** job on the notice board in the Ash & Anvil Inn.
 
-**First Appearance:** [Session 1](/campaigns/session-1.md)
+**First Appearance:** Session 1

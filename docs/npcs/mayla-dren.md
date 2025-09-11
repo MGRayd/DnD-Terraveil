@@ -10,7 +10,7 @@ Looks worn out, tired, and dragging herself through the days.
 - Hired the party to guard the farmlands and hunt the creatures attacking the livestock and now residents.
 - Led the party to the ranch where the attack took place.
 
-**First Appearance:** [Session 1](/campaigns/session-1.md)
+**First Appearance:** Session 1
 
 ## Borris
 
@@ -22,4 +22,4 @@ Not much is known yet.
 **Notable Details:**  
 - Mentioned in relation to the local settlers and hamlet near Valethorn.
 
-**First Appearance:** [Session 1](/campaigns/session-1.md)
+**First Appearance:** Session 1

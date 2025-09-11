@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "npcs/index.md",
+                "file": "campaigns/Session-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Session-1"
             }
           }
         ]
@@ -171,11 +171,11 @@
   },
   "active": "9a51caf2e48d24a2",
   "lastOpenFiles": [
+    "npcs/index.md",
     "locations/index.md",
     "campaigns/Session-1.md",
     "locations/terravale.md",
     "npcs/innkeep.md",
-    "npcs/index.md",
     "locations/hamlet-farmlands.md",
     "locations/valethorn.md",
     "locations/old-forest.md",

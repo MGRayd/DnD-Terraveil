@@ -18,12 +18,12 @@ summary: First steps into Valethorn — contracts taken, mystery and hunt of cre
 
 ### Highlights
 - Discovery: 
-	- Terravale’s strange history — 25 years since the Mists cleared, Terravalians have tall frames and dark veins.
+	- Terravale’s strange history — 25 years since the Mists cleared, Terravalians are incredibly pale have tall frames and dark veins.
 	- Valethorn is a frontier city built on ancient ruins, flourishing under the Frontiers Guild.
 
 
 - NPCs:
-	- **Innkeeper** (Ash & Anvil Inn) – provides lodging
+	- **Innkeeper** (Ashen Anvil Inn) – provides lodging
 	- **Ignation Brenick** – offers caravan guard work posted on the jobs board in the Ash & Anvil Inn
 	- **Magester Halvesh** – scholar posting a relic recovery job, has a room at the Ash & Anvil Inn
 	- **Mayla Dren** – tired but determined head of the Farmers Guild; hires party to protect livestock and settlers who have ranches dotted around the hamlet..
@@ -47,7 +47,7 @@ summary: First steps into Valethorn — contracts taken, mystery and hunt of cre
 ### Journal
 - Traveled a week by caravan from outside of Terravale, arriving in Valethorn around 4 PM on an autumn day.  
 - The party observed the bustling frontier city: markets, new buildings, adventurers, and settlers.  
-- Entered the **Ash & Anvil Inn**, a large structure built in the remains of an old forge.  
+- Entered the **Ashen Anvil Inn**, a large structure built in the remains of an old forge.  
   - Noted the notice board filled with job postings.  
   - The inn was full of mercenaries and adventuring groups, and the smell of stew filled the air.  
 
@@ -71,7 +71,7 @@ summary: First steps into Valethorn — contracts taken, mystery and hunt of cre
 - Location:
 	- [Terravale](../locations/terravale.md)  
 	- [Valethorn](../locations/valethorn.md) 
-	- [Hamlet & Surrounding Farmlands]((../locations/hamlet-farmlands.md)  
+	- [Hamlet & Surrounding Farmlands](../locations/hamlet-farmlands.md)  
 	- [Old Forest](../locations/old-forest.md)
 
 - NPCs:

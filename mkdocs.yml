@@ -23,9 +23,9 @@ nav:
     - Session 1: campaigns/Session-1.md
     #- Session 2: campaigns/Session-2.md
   - Locations:
-    - Coming Soon: locations/index.md
+    - Indexed Locations: locations/index.md
   - NPCs:
-    - Coming Soon: npcs/index.md
+    - Indexed NPCs: npcs/index.md
 markdown_extensions:
   - tables
   - admonition

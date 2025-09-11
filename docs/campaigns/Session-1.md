@@ -74,4 +74,8 @@ summary: First steps into Valethorn — contracts taken, mystery and hunt of cre
 	- [Hamlet & Surrounding Farmlands](../locations/hamlet-farmlands.md)  
 	- [Old Forest](../locations/old-forest.md)
 
-- NPCs: [[Example NPC]]
+- NPCs:
+	- [Ignation Brenick](../npcs/ignation-brenick.md)
+	- [Innkeeper](../npcs/innkeeper.md)
+	- [Magister Halvesh](../npcs/magister-halvesh.md)
+	- [Mayla Dren](../npcs/mayla-dren.md)  

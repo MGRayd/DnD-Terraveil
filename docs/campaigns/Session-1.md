@@ -18,23 +18,23 @@ summary: First steps into Valethorn — contracts taken, mystery and hunt of cre
 
 ### Highlights
 - Discovery: 
-- Terravale’s strange history — 25 years since the Mists cleared, Terravalians have tall frames and dark veins.
-- Valethorn is a frontier city built on ancient ruins, flourishing under the Frontiers Guild.
+	- Terravale’s strange history — 25 years since the Mists cleared, Terravalians have tall frames and dark veins.
+	- Valethorn is a frontier city built on ancient ruins, flourishing under the Frontiers Guild.
 
 
 - NPCs:
-- **Innkeeper** (Ash & Anvil Inn) – provides lodging
-- **Ignation Brenick** – offers caravan guard work posted on the jobs board in the Ash & Anvil Inn
-- **Magester Halvesh** – scholar posting a relic recovery job, has a room at the Ash & Anvil Inn
-- **Mayla Dren** – tired but determined head of the Farmers Guild; hires party to protect livestock and settlers who have ranches dotted around the hamlet..
+	- **Innkeeper** (Ash & Anvil Inn) – provides lodging
+	- **Ignation Brenick** – offers caravan guard work posted on the jobs board in the Ash & Anvil Inn
+	- **Magester Halvesh** – scholar posting a relic recovery job, has a room at the Ash & Anvil Inn
+	- **Mayla Dren** – tired but determined head of the Farmers Guild; hires party to protect livestock and settlers who have ranches dotted around the hamlet..
 
 - Loot:
-- Market purchases: maps and notes on flora and fauna.
+	- Market purchases: maps and notes on flora and fauna.
 
 - Clues:
-- Large animal tracks (bigger than wolf) leading west into the Old Forest.
-- Blood trail from the ranch scene.
-- Magical/aberrant echo surrounding Mayla Dren.
+	- Large animal tracks (bigger than wolf) leading west into the Old Forest.
+	- Blood trail from the ranch scene.
+	- Magical/aberrant echo surrounding Mayla Dren.
 
 !!! info "Open Threads"
     - [ ] Hunt creatures

@@ -69,8 +69,9 @@ summary: First steps into Valethorn — contracts taken, mystery and hunt of cre
 
 ### Links
 - Location:
-	- [Terravale](/locations/#terravale)
-	- [Valethorn](/locations/#valethorn-frontier-city)
-	- [Hamlet & Surrounding Farmlands](/locations/#hamlet--surrounding-farmlands)
-	- [Old Forest](/locations/#old-forest-unvisited)
+	- [Terravale](../locations/terravale.md)  
+	- [Valethorn](../locations/valethorn.md)  
+	- [Hamlet & Surrounding Farmlands](../locations/hamlet-farmlands.md)  
+	- [Old Forest](../locations/old-forest.md)
+
 - NPCs: [[Example NPC]]

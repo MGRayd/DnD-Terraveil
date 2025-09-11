@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "npcs/index.md",
+                "file": "campaigns/Session-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Session-1"
             }
           }
         ]
@@ -171,18 +171,18 @@
   },
   "active": "1baa6393b96b67d1",
   "lastOpenFiles": [
-    "npcs/mayla-dren.md",
-    "campaigns/Session-1.md",
-    "npcs/innkeeper.md",
-    "npcs/index.md",
-    "npcs/ignation-brenick.md",
     "locations/index.md",
+    "locations/old-forest.md",
+    "campaigns/Session-1.md",
+    "locations/hamlet.md",
+    "locations/valethorn.md",
+    "npcs/index.md",
+    "npcs/mayla-dren.md",
+    "npcs/innkeeper.md",
+    "npcs/ignation-brenick.md",
     "locations/terravale.md",
     "npcs/magister-halvesh.md",
-    "locations/Valethorn.md",
     "locations.md",
-    "locations/Old Forest.md",
-    "locations/Hamlet.md",
     "characters/silas/index.md",
     "campaigns/Session-0.md",
     "index.md",

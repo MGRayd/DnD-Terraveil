@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a0b11c35d1d2ab22",
+        "id": "d21a6681409a94ec",
         "type": "tabs",
         "children": [
           {
-            "id": "1baa6393b96b67d1",
+            "id": "9a51caf2e48d24a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "campaigns/Session-1.md",
+                "file": "npcs/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session-1"
+              "title": "index"
             }
           }
         ]
@@ -169,18 +169,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1baa6393b96b67d1",
+  "active": "9a51caf2e48d24a2",
   "lastOpenFiles": [
     "locations/index.md",
-    "locations/old-forest.md",
     "campaigns/Session-1.md",
-    "locations/hamlet.md",
-    "locations/valethorn.md",
-    "npcs/index.md",
-    "npcs/mayla-dren.md",
-    "npcs/innkeeper.md",
-    "npcs/ignation-brenick.md",
     "locations/terravale.md",
+    "npcs/innkeep.md",
+    "npcs/index.md",
+    "locations/hamlet-farmlands.md",
+    "locations/valethorn.md",
+    "locations/old-forest.md",
+    "npcs/mayla-dren.md",
+    "npcs/ignation-brenick.md",
     "npcs/magister-halvesh.md",
     "locations.md",
     "characters/silas/index.md",

@@ -70,12 +70,12 @@ summary: First steps into Valethorn — contracts taken, mystery and hunt of cre
 ### Links
 - Location:
 	- [Terravale](../locations/terravale.md)  
-	- [Valethorn](valethorn.md)  
-	- [Hamlet & Surrounding Farmlands](../locations/hamlet.md)  
+	- [Valethorn](../locations/valethorn.md) 
+	- [Hamlet & Surrounding Farmlands]((../locations/hamlet-farmlands.md)  
 	- [Old Forest](../locations/old-forest.md)
 
 - NPCs:
 	- [Ignation Brenick](../npcs/ignation-brenick.md)
-	- [Innkeeper](../npcs/innkeeper.md)
+	- [Innkeeper](../npcs/innkeep.md)
 	- [Magister Halvesh](../npcs/magister-halvesh.md)
 	- [Mayla Dren](../npcs/mayla-dren.md)  

@@ -9,7 +9,7 @@ A record of the places explored in Terraveil.
 <!-- locations:start -->
 
 - [🌍 Terravale](terravale.md)
-- [🏙️ Valethorn (Frontier City)](valethorn.md)
+- [🏙️ Valethorn (Frontier City)](valethorn-city.md)
 - [🌾 Hamlet & Surrounding Farmlands](hamlet-farmlands.md)
 - [🌲 Old Forest (Unvisited)](old-forest.md)
 

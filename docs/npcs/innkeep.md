@@ -10,4 +10,4 @@ Wears a blacksmith’s apron. Quiet, professional, and keeps the inn running smo
 - Slid the party a key for **Room 5** during their first stay.
 - Pointed out Magister Halvesh to the party.
 
-**First Appearance:** [Session 1](../campaigns/session-1.md)
+**First Appearance:** [Session 1](/campaigns/session-1.md)

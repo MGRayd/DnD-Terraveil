@@ -8,9 +8,9 @@
 - **Speed:** 30 ft (Walking)
 
 ## Attributes
-| STRENGTH | DEXTERITY | CONSTITUTION | INTELLIGENCE | WISDOM | CHARISMA |
-|-----|-----|-----|-----|-----|-----|
-| 17 (+3) | 20 (+5) | 14 (+2) | 16 (+3) | 12 (+1) | 11 (+0) |
+| STRENGTH | DEXTERITY | CONSTITUTION | INTELLIGENCE | WISDOM  | CHARISMA |
+| -------- | --------- | ------------ | ------------ | ------- | -------- |
+| 17 (+3)  | 20 (+5)   | 14 (+2)      | 16 (+3)      | 12 (+1) | 11 (+0)  |
 
 ## Saving Throws
 - **Strength:** +3

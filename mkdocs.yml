@@ -21,7 +21,7 @@ nav:
   - Characters:
     - Silas Corvin: 
       - Overview: characters/silas/index.md
-      - Stats: characters/silas/stats.md
+      #- Stats: characters/silas/stats.md
   - Campaigns:
     - Campaign: campaigns/index.md
     - Session 0: campaigns/Session-0.md

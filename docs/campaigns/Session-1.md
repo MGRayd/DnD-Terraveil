@@ -10,7 +10,7 @@ summary: First steps into Valethorn — contracts taken, mystery and hunt of cre
 
 ???+ note "TL;DR"
     The party arrives in Valethorn after a week’s journey.
-    They explore the Ash & Anvil Inn, gather information, and take their first job from the notice board.
+    They explore the Ashen Anvil Inn, gather information, and take their first job from the notice board.
     They travel to a nearby ranch to investigate a missing child and set an ambush for the creatures responsible.
     The night ends with mist creeping in and glowing blue eyes appearing from the darkness…_
 

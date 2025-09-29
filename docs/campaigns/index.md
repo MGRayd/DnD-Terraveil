@@ -90,5 +90,7 @@ document.addEventListener('DOMContentLoaded', function () {
   _Discussed campaign dates, characters and lore._ → [Read](Session-0.md)
 - **11-09-2025 — Session 1**  
   _Our tale has not yet begun, but the pieces are moving…_ → [Read](Session-1.md)
+- - **11-09-2025 — Session 2**  
+  Battle at the edge of the woods! Wolves, mist, and a crystal spined monstrosity. Lavinia falls but is saved, Onyx defeats the beast and claims a runed skull. → [Read](Session-2.md)
 
 <!-- sessions:end -->

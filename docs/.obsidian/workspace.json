@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "43ba7e849a4c5ffb",
+        "id": "ab39e9ef1285c695",
         "type": "tabs",
         "children": [
           {
-            "id": "f123c98f10143486",
+            "id": "43a5e97ff3a2dca3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "npcs/mayla-dren.md",
+                "file": "campaigns/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mayla-dren"
+              "title": "index"
             }
           }
         ]
@@ -169,17 +169,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f123c98f10143486",
+  "active": "43a5e97ff3a2dca3",
   "lastOpenFiles": [
+    "index.md",
+    "campaigns/Session-2.md",
+    "campaigns/index.md",
+    "campaigns/Session-1.md",
+    "campaigns/Session-0.md",
+    "Templates/Session.md",
+    "Templates/Add Session.md",
+    "Session-Session.md",
+    "npcs/mayla-dren.md",
     "npcs/magister-halvesh.md",
     "npcs/innkeep.md",
     "npcs/ignation-brenick.md",
     "DnD-Terraveil/campaigns/Session-1.md",
-    "npcs/mayla-dren.md",
     "DnD-Terraveil/campaigns",
     "DnD-Terraveil",
     "DnD-Terraveil/campaigns/session-1.md",
-    "campaigns/Session-1.md",
     "characters/silas/index.md",
     "characters/silas/stats.md",
     "{{.md",
@@ -190,15 +197,8 @@
     "locations/hamlet-farmlands.md",
     "locations/terravale.md",
     "locations.md",
-    "campaigns/Session-0.md",
-    "index.md",
-    "Templates/Session.md",
-    "Templates/Add Session.md",
     "Templates/Quick Stats.md",
-    "Reference/Quik Ref.md",
     "Reference",
-    "characters/silas/Stats.md",
-    "characters/silas/Silas Corvin - Quick Stats.md",
     "Excalidraw",
     "characters/Test Char",
     "locations",

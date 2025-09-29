@@ -33,7 +33,6 @@ nav:
   - Monsters:
     - Indexed Monsters: monsters/index.md
     
-
 markdown_extensions:
   - tables
   - admonition

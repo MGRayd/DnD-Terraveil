@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3391bff94aaf0388",
+        "id": "b419e8531c2b9f02",
         "type": "tabs",
         "children": [
           {
-            "id": "ae984f66629200ef",
+            "id": "9fe98db3152327d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "monsters/crystal-wolves.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "crystal-wolves"
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
             }
           }
         ]
@@ -169,11 +165,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ae984f66629200ef",
+  "active": "9fe98db3152327d5",
   "lastOpenFiles": [
-    "monsters/Unconfirmed 955190.crdownload",
-    "campaigns/Session-2.md",
     "monsters/crystal-wolves.md",
+    "campaigns/Session-2.md",
+    "monsters/Unconfirmed 955190.crdownload",
     "monsters/crystal-wolves.tmp.md",
     "index.md",
     "monsters/crystal-wolves.png",
@@ -208,7 +204,6 @@
     "DnD-Terraveil/campaigns/session-1.md",
     "Reference",
     "Excalidraw",
-    "characters/Test Char",
-    "locations"
+    "characters/Test Char"
   ]
 }

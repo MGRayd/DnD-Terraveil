@@ -1,6 +1,6 @@
 # Crystal Spined Wolves
 
-<img src="assets/crystal-wolves.png" alt="S2-Monstrous-Creature" width="250" height="400">
+<img src="assets/crystal-wolves.png" alt="crystal-wolves" width="250" height="400">
 
 **Type:** Aberrant Beast  
 
@@ -25,7 +25,7 @@ Alpha - Larger predator with crystal-like protrusions running along its back, gl
 - Decompose rapidly into mist upon death.  
 - Decomposition accelerates when exposed to magical light (e.g., shield glow).  
 
-**First Appearance:** [Session 2](/campaigns/session-2.md)
+**First Appearance:** Session 1
 
 **Known Encounters:**  
 - Ambush near the ranch outside Valethorn.  

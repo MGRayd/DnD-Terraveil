@@ -11,10 +11,14 @@
             "id": "ae984f66629200ef",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "monsters/crystal-wolves.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "crystal-wolves"
             }
           }
         ]
@@ -167,6 +171,7 @@
   },
   "active": "ae984f66629200ef",
   "lastOpenFiles": [
+    "campaigns/Session-2.md",
     "monsters/crystal-wolves.md",
     "monsters/crystal-wolves.tmp.md",
     "index.md",
@@ -174,7 +179,6 @@
     "monsters/index.md",
     "characters/silas/index.md",
     "characters/silas/stats.md",
-    "campaigns/Session-2.md",
     "monsters/crystal-wolves",
     "npcs/mayla-dren.md",
     "monsters/assets/S2-Monstrous-Creature.png",

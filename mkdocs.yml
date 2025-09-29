@@ -32,6 +32,7 @@ nav:
     - Indexed NPCs: npcs/index.md
   - Monsters:
     - Indexed Monsters: monsters/index.md
+    
 
 markdown_extensions:
   - tables

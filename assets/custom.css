@@ -1,0 +1,92 @@
+/* Load a gothic display font for headings */
+@import url('https://fonts.googleapis.com/css2?family=Uncial+Antiqua&family=Merriweather&display=swap');
+
+/* Body text */
+.md-typeset {
+  font-family: "Merriweather", serif !important;
+  font-size: 0.95rem;
+  line-height: 1.7;
+  color: #e0e0e0;
+}
+
+/* Blood-red headings in a gothic font */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+  color: #e63946 !important;              /* blood red */
+  font-family: "Uncial Antiqua", serif !important;
+}
+
+/* Blockquotes */
+.md-typeset blockquote {
+  border-left: 4px solid #e63946;
+  background: #1a1a1a;
+  padding: 0.9rem 1rem;
+  color: #d8d8d8;
+  font-style: italic;
+  font-family: "Merriweather", serif;
+}
+
+/* Images */
+.md-typeset img {
+  border: 2px solid #2b2b2b;
+  border-radius: 10px;
+  box-shadow: 0 0 12px rgba(0,0,0,0.6);
+  margin: 1em 0;
+  max-width: 100%;
+  height: auto;
+}
+
+/* Horizontal rule accent */
+.md-typeset hr {
+  border: 0;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, #e63946, transparent);
+}
+
+/* Optional: make the main content a touch narrower for readability */
+.md-grid {
+  max-width: 80rem;
+}
+
+/* Keep calendar contained and themed */
+#calendar { max-width: 100%; margin: 0 auto; }
+
+/* Subtle, smaller location line */
+#calendar .fc-event-location {
+  font-size: 0.75rem;
+  color: #ffffff;
+  margin-top: 2px;
+}
+
+/* Match your heading style for the calendar title (optional) */
+#calendar .fc .fc-toolbar-title {
+  color: var(--md-primary-fg-color);
+  font-family: "Cinzel Decorative", Georgia, serif;
+  font-weight: 700;
+}
+
+/* Keep event text readable and wrap only between words */
+#calendar .fc-daygrid-event,
+#calendar .fc-daygrid-event .fc-event-main,
+#calendar .fc-daygrid-event .fc-line,
+#calendar .fc-daygrid-event .fc-title,
+#calendar .fc-daygrid-event .fc-time,
+#calendar .fc-daygrid-event .fc-event-location {
+  white-space: normal;
+  overflow-wrap: break-word;  /* wrap long words if needed */
+  word-break: normal;         /* avoid breaking inside words/letters */
+  line-height: 1.2;
+}
+
+#calendar .fc-daygrid-event .fc-line { display: block; }
+#calendar .fc-daygrid-event .fc-time { font-weight: 700; margin-right: .25rem; }
+#calendar .fc-event-location { font-size: .75rem; color: #bbb; margin-top: 2px; }
+
+/* Slight spacing so two-line entries look tidy */
+#calendar .fc-daygrid-event {
+  padding-right: 2px;
+}

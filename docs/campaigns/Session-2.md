@@ -24,7 +24,7 @@ summary: Battle at the edge of the woods! Wolves, mist, and a crystal spined mon
 	- The creature dissolves into mist, leaving behind a skull covered in glowing runes.
 - **Clues & Discoveries:** 
 	- Wolves show unnatural alterations (crystal spines, rapid mist-like decomposition under light).  
-	- The runes are cult-like, not religious — linked somehow to Terravale but not yet identified.  
+	- The runes are cult-like, not religious, linked somehow to Terravale but not yet identified.  
 	- Mist seems to grow darker during combat, and responds to magic/light.
 - **NPC Interaction:**
 	- Returned to the hamlet to speak with **Mayla Dren** and show the runed skull.  
@@ -34,7 +34,7 @@ summary: Battle at the edge of the woods! Wolves, mist, and a crystal spined mon
 
 !!! info "Open Threads"
     - [ ] Origin and purpose of the crystal-backed creature and its runes.
-    - [ ] Mayla Dren’s strange aura — is it connected to the mist or the creatures?
+    - [ ] Mayla Dren’s strange aura, is it connected to the mist or the creatures?
     - [ ] What are the "crystal spines" and what effect do they have on the land?
 
 ---

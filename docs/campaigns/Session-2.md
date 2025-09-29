@@ -50,6 +50,8 @@ summary: Battle at the edge of the woods! Wolves, mist, and a crystal spined mon
   - **Silas** kills Wolf 3 with a crossbow bolt.  
   - **Lavinia** flies 30 ft into the air, sees the javelin sticking out of Wolf 1. Wolf 1 is killed.  
     - Lavinia spots a **larger crystal backed creature** stepping from the treeline, its spines glowing blue.  
+    - 
+<img src="assets/S2-Monstrous-Creature.png" alt="S2-Monstrous-Creature" width="250" height="400">
   - **Onyx** advances, ready to grapple.  
   - A second mist area appears.  
   - **Socket** throws a noisy distraction.  
@@ -63,7 +65,7 @@ summary: Battle at the edge of the woods! Wolves, mist, and a crystal spined mon
   - **Lautha** heals fully and moves to Lavinia.  
   - Lavinia makes her first death save (1/3).  
   - **Silas** fires into the mist but misses.  
-  - The **Big Creature** utters a word of power, everyone takes 3 or 6 damage depending on saves (DC 12).  
+  - The **Larger Creature** utters a word of power, everyone takes 3 or 6 damage depending on saves (DC 12).  
   - **Thaelion** casts fire spells, dealing 9 total damage.  
   - **Onyx** unleashes a brutal flurry: 7 + 5 damage, then finishes it by ripping off a crystal spike and impaling the creature through its skull.  
     - The creature dissolves into mist, leaving behind a skull etched with runes.

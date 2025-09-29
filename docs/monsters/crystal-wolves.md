@@ -1,6 +1,6 @@
 # Crystal Spined Wolves
 
-<img src="./crystal-wolves.png" alt="Crystal-Spined Wolves" width="250" height="400">
+<img src="../crystal-wolves.png" alt="Crystal-Spined Wolves" width="250" height="400">
 
 **Type:** Aberrant Beast  
 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "14d47762f5001ead",
+        "id": "6935f1c9eaa850f1",
         "type": "tabs",
         "children": [
           {
-            "id": "348ec32b8a19e8f9",
+            "id": "c11912acf0207843",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
@@ -165,9 +165,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "348ec32b8a19e8f9",
+  "active": "c11912acf0207843",
   "lastOpenFiles": [
     "campaigns/Session-2.md",
+    "locations/hamlet-farmlands.md",
+    "locations/index.md",
+    "locations/old-forest.md",
+    "locations/terravale.md",
+    "locations/valethorn-city.md",
     "campaigns/index.md",
     "index.md",
     "campaigns/Session-1.md",
@@ -187,11 +192,6 @@
     "characters/silas/stats.md",
     "{{.md",
     "npcs/index.md",
-    "locations/index.md",
-    "locations/valethorn-city.md",
-    "locations/old-forest.md",
-    "locations/hamlet-farmlands.md",
-    "locations/terravale.md",
     "locations.md",
     "Templates/Quick Stats.md",
     "Reference",

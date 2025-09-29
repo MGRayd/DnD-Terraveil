@@ -5,7 +5,19 @@
 **Type:** Aberrant Beast  
 
 **Appearance:**  
-Wolves with unnatural crystal spines protruding from their backs, faintly glowing blue in the moonlight.  
+Wolves with unnatural crystal spines protruding from their backs, faintly glowing blue in the moonlight.
+
+Alpha - Larger predator with crystal-like protrusions running along its back, glowing with blue light. Moves unnaturally and blends with the mist. 
+
+**Abilities - Alpha:**  
+- Can speak, uttered a word that caused psychic/magical damage to the entire party.  
+- Powerful physical attacker (able to grab and drag Lavinia into the mist).  
+- Dissolves into mist when slain, leaving only a skull with runic carvings.
+
+**Notable Details - Alpha:**  
+- Runes are cult-like, not religious, appear Terravale-linked but unidentified.  
+- Mist seems to respond to its presence, darkening during combat.  
+- Defeated by Onyx, who impaled it with its own crystal spine.
 
 **Notable Details:**  
 - Appear during heavy mist events.  
@@ -18,4 +30,5 @@ Wolves with unnatural crystal spines protruding from their backs, faintly glowin
 **Known Encounters:**  
 - Ambush near the ranch outside Valethorn.  
 - Attacked cattle and settlers before being slain by the party.
+- Left behind a **runed skull**, now in the party’s possession.
 

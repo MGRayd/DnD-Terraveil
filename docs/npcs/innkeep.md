@@ -1,6 +1,6 @@
 # Innkeeper
 
-**Role:** Proprietor of the Ash & Anvil Inn.
+**Role:** Proprietor of the Ashen Anvil Inn.
 
 **Appearance:**  
 Wears a blacksmith’s apron. Quiet, professional, and keeps the inn running smoothly.

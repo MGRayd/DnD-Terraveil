@@ -83,5 +83,5 @@ summary: Battle at the edge of the woods! Wolves, mist, and a crystal spined mon
 - NPCs:
 	- [Mayla Dren](../npcs/mayla-dren.md)
 - Monsters:
-	- [Crystal Spined Wolves](../monsters/Crystal-Wolves.md)
+	- [Crystal Spined Wolves](crystal-wolves.md)
 

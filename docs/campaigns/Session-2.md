@@ -50,8 +50,6 @@ summary: Battle at the edge of the woods! Wolves, mist, and a crystal spined mon
   - **Silas** kills Wolf 3 with a crossbow bolt.  
   - **Lavinia** flies 30 ft into the air, sees the javelin sticking out of Wolf 1. Wolf 1 is killed.  
     - Lavinia spots a **larger crystal backed creature** stepping from the treeline, its spines glowing blue.  
-    - 
-<img src="assets/S2-Monstrous-Creature.png" alt="S2-Monstrous-Creature" width="250" height="400">
   - **Onyx** advances, ready to grapple.  
   - A second mist area appears.  
   - **Socket** throws a noisy distraction.  
@@ -84,4 +82,6 @@ summary: Battle at the edge of the woods! Wolves, mist, and a crystal spined mon
 	- [Old Forest](../locations/old-forest.md)
 - NPCs:
 	- [Mayla Dren](../npcs/mayla-dren.md)
+- Monsters:
+	- [Crystal Spined Wolves](../monsters/Crystal-Wolves.md)
 
